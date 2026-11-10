@@ -1,4 +1,4 @@
-:root{--bg:#FAF8F3;--ink:#221E20;--muted:#6b6468;--wine:#8C353F;--pink:#D8B0BC;--blue:#9FB2C3;--navy:#33475A}
+ :root{--bg:#FAF8F3;--ink:#221E20;--muted:#6b6468;--wine:#8C353F;--pink:#D8B0BC;--blue:#9FB2C3;--navy:#33475A}
 *{box-sizing:border-box;margin:0}
 body{background:var(--bg);color:var(--ink);font:17px/1.6 "Familjen Grotesk",system-ui,sans-serif;text-align:center}
 a{color:inherit;text-decoration:none}
